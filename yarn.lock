@@ -32,7 +32,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.11.6, @babel/core@npm:^7.12.3, @babel/core@npm:^7.13.16, @babel/core@npm:^7.20.0, @babel/core@npm:^7.23.9":
+"@babel/core@npm:^7.11.6, @babel/core@npm:^7.12.3, @babel/core@npm:^7.13.16, @babel/core@npm:^7.20.0, @babel/core@npm:^7.23.9, @babel/core@npm:^7.24.7":
   version: 7.24.7
   resolution: "@babel/core@npm:7.24.7"
   dependencies:
@@ -1452,7 +1452,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/preset-env@npm:^7.20.0":
+"@babel/preset-env@npm:^7.24.7":
   version: 7.24.7
   resolution: "@babel/preset-env@npm:7.24.7"
   dependencies:
@@ -3000,8 +3000,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "MyApp@workspace:."
   dependencies:
-    "@babel/core": ^7.20.0
-    "@babel/preset-env": ^7.20.0
+    "@babel/core": ^7.24.7
+    "@babel/preset-env": ^7.24.7
     "@babel/runtime": ^7.20.0
     "@react-native/babel-preset": 0.74.84
     "@react-native/eslint-config": 0.74.84
